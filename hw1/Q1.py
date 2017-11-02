@@ -3,6 +3,7 @@ import math
 from scipy import misc
 import cv2
 
+
 def dist(x, y):
     return np.linalg.norm(x - y)
 
